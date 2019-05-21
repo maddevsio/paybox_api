@@ -1,6 +1,4 @@
-# PayboxApi
-
-[![Build Status](https://travis-ci.org/maddevsio/paybox_api.svg?branch=master)](https://travis-ci.org/maddevsio/paybox_api)
+# PayboxApi [![Build Status](https://travis-ci.org/maddevsio/paybox_api.svg?branch=master)](https://travis-ci.org/maddevsio/paybox_api)
 
 ## Installation
 
