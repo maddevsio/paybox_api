@@ -1,5 +1,6 @@
 require 'paybox_api/version'
 require 'paybox_api/v4'
+require 'paybox_api/spec'
 
 module PayboxApi
   class << self
