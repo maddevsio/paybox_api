@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'net/http'
 require 'json'
 
@@ -10,10 +12,11 @@ module PayboxApi
       end
 
       def payments(**params)
-        required_keys = [ :order, :amount, :currency, :description, :uuid, :expires_at ]
+        required_keys = %i[order amount currency description uuid expires_at]
         unless required_keys.all? { |key| params.key? key }
           raise "Payments method required keys: #{required_keys.join(', ')}"
         end
+
         uri = URI.parse url
         http = Net::HTTP.new(uri.host, uri.port)
         http.use_ssl = true
