@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Mad Devs', 'Pavel Kalashnikov']
   spec.email         = ['rock@maddevs.io', 'kalashnikovisme@gmail.com']
 
-  spec.summary       = %q{Paybox API wrapper for version 3.3+}
-  spec.description   = %q{Paybox API wrapper for version 3.3+}
+  spec.summary       = %q{Paybox API wrapper for version 4+}
+  spec.description   = %q{Paybox API wrapper for version 4+}
   spec.homepage      = 'https://github.com/maddevsio/paybox_api'
   spec.license       = 'MIT'
   spec.files         = Dir.chdir(File.expand_path('..', __FILE__)) do
