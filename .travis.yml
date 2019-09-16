@@ -8,6 +8,8 @@ rvm:
 before_script:
   - gem install bundler -v '~> 2.0'
   - gem install rspec -v '~> 3.0'
+  - gem install rubocop 
   - bundle
 script:
   - bundle exec rspec
+  - bundle exec rubocop

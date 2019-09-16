@@ -1,0 +1,18 @@
+Documentation:
+  Enabled: false
+Metrics/LineLength:
+  Max: 120
+Metrics/BlockLength:
+  Enabled: false
+  Include:
+    - spec/
+Metrics/AbcSize:
+  Max: 16
+Style/FrozenStringLiteralComment:
+  Exclude:
+    - bin/stage
+AllCops:
+  Exclude:
+    - db/schema.rb
+    - db/migrate/*.rb
+  TargetRubyVersion: 2.4

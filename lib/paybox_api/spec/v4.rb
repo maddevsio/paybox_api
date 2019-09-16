@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'paybox_api/spec/v4/stub'
 
 module PayboxApi
