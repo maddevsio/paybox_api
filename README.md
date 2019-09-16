@@ -1,4 +1,4 @@
-# PayboxApi [![Build Status](https://travis-ci.org/maddevsio/paybox_api.svg?branch=master)](https://travis-ci.org/maddevsio/paybox_api) [![Gem Version](https://badge.fury.io/rb/paybox_api.svg)](https://badge.fury.io/rb/paybox_api)
+# PayboxApi [![Developed in Maddevs](https://maddevs.io/badge-dark.svg)](https://maddevs.io) [![Build Status](https://travis-ci.org/maddevsio/paybox_api.svg?branch=master)](https://travis-ci.org/maddevsio/paybox_api) [![Gem Version](https://badge.fury.io/rb/paybox_api.svg)](https://badge.fury.io/rb/paybox_api)
 
 ## Installation
 
