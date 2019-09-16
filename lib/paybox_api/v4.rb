@@ -2,5 +2,7 @@
 
 require 'paybox_api/v4/client'
 
-module PayboxApi::V4
+module PayboxApi
+  module V4
+  end
 end

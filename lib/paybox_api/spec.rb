@@ -9,7 +9,7 @@ module PayboxApi
     def stub_payment(version: :v4, **params)
       case version
       when :v4
-        V4::Stub.request **params
+        V4::Stub.request(**params)
       end
     end
   end

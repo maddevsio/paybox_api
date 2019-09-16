@@ -8,10 +8,6 @@ Metrics/BlockLength:
     - spec/
 Metrics/AbcSize:
   Max: 16
-Style/ClassAndModuleChildren:
-  EnforcedStyle: compact
-  Exclude:
-    - config/application.rb
 Style/FrozenStringLiteralComment:
   Exclude:
     - bin/stage
