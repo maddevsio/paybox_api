@@ -1,4 +1,4 @@
-# PayboxApi [![Build Status](https://travis-ci.org/maddevsio/paybox_api.svg?branch=master)](https://travis-ci.org/maddevsio/paybox_api) [![Gem Version](https://badge.fury.io/rb/paybox_api.svg)](https://badge.fury.io/rb/paybox_api)
+# PayboxApi [https://camo.githubusercontent.com/f9860acbe6f13b42b3093d485a115cfa6feae8eb/68747470733a2f2f6d6164646576732e696f2f62616467652d6461726b2e737667](https://maddevs.io) [![Build Status](https://travis-ci.org/maddevsio/paybox_api.svg?branch=master)](https://travis-ci.org/maddevsio/paybox_api) [![Gem Version](https://badge.fury.io/rb/paybox_api.svg)](https://badge.fury.io/rb/paybox_api)
 
 ## Installation
 
@@ -62,12 +62,8 @@ before { stub_payment }
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/paybox_api. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/maddevsio/paybox_api.
 
 ## License
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-## Code of Conduct
-
-Everyone interacting in the PayboxApi project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/paybox_api/blob/master/CODE_OF_CONDUCT.md).
